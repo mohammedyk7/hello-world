@@ -1,2 +1,6 @@
 # hello-world
-just a new repository 
+
+hi people!
+
+mohammed's here, i like learning new things (that's why im here !).
+i've had eggs for brekfast.
